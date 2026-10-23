@@ -1,0 +1,3 @@
+# Controller dependencies (tested with os-ken 3.0.1 on Python 3.12)
+# Mininet and Open vSwitch are installed with apt, not pip.
+os-ken==3.0.1
